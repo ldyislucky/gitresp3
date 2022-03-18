@@ -6,4 +6,5 @@ package com.ldy;
  */
 public class demo2 {
   private int num;
+  private String name;
 }
